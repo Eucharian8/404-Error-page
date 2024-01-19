@@ -21,11 +21,16 @@ p{
     margin-left: 30px;
     margin-right: 30px;
 }
-.Home{
+button{
     padding:8px 8px 8px 8px;
     border-color: blue;
     border-radius: 5px;
     color: blue;
     background-color: white;
     box-shadow: 5px 4px 0 1px;
+    text-align: center;
+}
+button:hover {
+    background-color: lightgray;
+    cursor: pointer;
 }
